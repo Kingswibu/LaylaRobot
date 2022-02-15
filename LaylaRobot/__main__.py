@@ -111,7 +111,7 @@ layla_IMG = "https://telegra.ph/file/ea949f74f669ea8f9313a.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project [Hero](t.me/Kingswibu) \
- Supporting isnt always financial! [AwesomeSupport](t.me/LaylaList) \
+ Supporting isnt always financial! [AwesomeSupport](t.me/wibucringe00) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
